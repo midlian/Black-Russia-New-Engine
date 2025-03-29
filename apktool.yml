@@ -1,0 +1,372 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: blackrussia.apk
+compressionType: false
+doNotCompress:
+- arsc
+- prof
+- profm
+- so
+- png
+- res/-mC.9.png
+- res/0cZ.9.png
+- res/0x8.9.png
+- res/1Ce.9.png
+- mp3
+- res/1If.9.png
+- res/1JK.9.png
+- res/1e9.9.png
+- res/2KV.9.png
+- res/33x.9.png
+- res/3u9.9.png
+- res/42p.9.png
+- res/5Dk.9.png
+- res/5J7.9.png
+- res/62z.9.png
+- res/65N.9.png
+- res/79u.9.png
+- res/7Cu.9.png
+- res/7It.9.png
+- res/7_t.9.png
+- res/7od.9.png
+- res/8ha.9.png
+- res/9NG.9.png
+- res/9Xj.9.png
+- res/9nv.9.png
+- res/Afl.9.png
+- res/BGS.9.png
+- res/BLb.9.png
+- res/BQ5.9.png
+- res/CKS.9.png
+- res/C_Q.9.png
+- res/DLp.9.png
+- res/D_t.9.png
+- res/EA2.9.png
+- res/G29.9.png
+- res/GtE.9.png
+- res/I3O.9.png
+- res/IXv.9.png
+- res/JJc.9.png
+- res/KH3.9.png
+- res/K_h.9.png
+- res/Lia.9.png
+- res/MFp.9.png
+- res/MaR.9.png
+- res/NAx.9.png
+- res/NZ3.9.png
+- res/NkI.9.png
+- res/Noy.9.png
+- res/Pal.9.png
+- res/Pg8.9.png
+- res/QJr.9.png
+- res/QdP.9.png
+- res/SVj.9.png
+- res/SuS.9.png
+- res/TjC.9.png
+- res/U-n.9.png
+- res/UEu.9.png
+- res/W48.9.png
+- res/X3M.9.png
+- res/X4d.9.png
+- res/Y7y.9.png
+- res/YGb.9.png
+- res/Ytq.9.png
+- res/YwO.9.png
+- res/ZLL.9.png
+- res/ZNQ.9.png
+- res/aUy.9.png
+- res/bXe.9.png
+- res/d56.9.png
+- res/dBS.9.png
+- jpg
+- res/e1O
+- res/eTZ.9.png
+- res/ejd.9.png
+- res/evJ.9.png
+- res/fMc.9.png
+- res/gKN.9.png
+- res/gZc.9.png
+- res/gj2.9.png
+- res/gtS.9.png
+- res/h75.9.png
+- res/hPw.9.png
+- res/hZl.9.png
+- res/hhV.9.png
+- res/i6F.9.png
+- res/iRh.9.png
+- res/io7.9.png
+- res/jS-.9.png
+- res/jSZ.9.png
+- res/jek.9.png
+- res/kJJ.9.png
+- res/lPz.9.png
+- res/li9.9.png
+- binarypb
+- res/mmw.9.png
+- res/nCt.9.png
+- res/nIJ.9.png
+- res/o9y.9.png
+- res/oOV.9.png
+- res/o_p.9.png
+- res/opy.9.png
+- res/psu.9.png
+- res/pyy.9.png
+- res/qDp.9.png
+- res/rjI.9.png
+- res/s3O.9.png
+- res/sAP.9.png
+- res/sgl.9.png
+- res/tU0.9.png
+- res/tZh.9.png
+- res/tr3.9.png
+- res/uLY.9.png
+- res/ujo.9.png
+- res/usG.9.png
+- res/ut7.9.png
+- res/uu2.9.png
+- res/v4k.9.png
+- res/vLM.9.png
+- res/vzR.9.png
+- res/w2_.9.png
+- res/wLL.9.png
+- res/wNh.9.png
+- res/x3E.9.png
+- res/xRU.9.png
+- res/xaP.9.png
+- res/yHJ.9.png
+- res/yYT.9.png
+- res/ygK.9.png
+- res/z-a.9.png
+- res/z98.9.png
+- res/zVW.9.png
+- res/zwf.9.png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '24'
+  targetSdkVersion: '34'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  DebugProbesKt.bin: '8'
+  XMLPULL_1_1_3_1_VERSION: '8'
+  androidsupportmultidexversion.txt: '8'
+  bi.client.properties: '8'
+  billing-ktx.properties: '8'
+  billing.properties: '8'
+  client_analytics.proto: '8'
+  core-common.properties: '8'
+  firebase-analytics.properties: '8'
+  firebase-annotations.properties: '8'
+  firebase-encoders-proto.properties: '8'
+  firebase-encoders.properties: '8'
+  firebase-iid-interop.properties: '8'
+  firebase-measurement-connector.properties: '8'
+  initscripttemplate.gradle: '8'
+  kotlin-tooling-metadata.json: '8'
+  messaging_event.proto: '8'
+  messaging_event_extension.proto: '8'
+  module.properties: '8'
+  play-services-ads-identifier.properties: '8'
+  play-services-appset.properties: '8'
+  play-services-base.properties: '8'
+  play-services-basement.properties: '8'
+  play-services-cloud-messaging.properties: '8'
+  play-services-location.properties: '8'
+  play-services-measurement-api.properties: '8'
+  play-services-measurement-base.properties: '8'
+  play-services-measurement-impl.properties: '8'
+  play-services-measurement-sdk-api.properties: '8'
+  play-services-measurement-sdk.properties: '8'
+  play-services-measurement.properties: '8'
+  play-services-places-placereport.properties: '8'
+  play-services-stats.properties: '8'
+  play-services-tasks.properties: '8'
+  protolite-well-known-types.properties: '8'
+  review-ktx.properties: '8'
+  review.properties: '8'
+  firebase/perf/v1/perf_metric.proto: '8'
+  google/protobuf/any.proto: '8'
+  google/protobuf/api.proto: '8'
+  google/protobuf/duration.proto: '8'
+  google/protobuf/empty.proto: '8'
+  google/protobuf/field_mask.proto: '8'
+  google/protobuf/source_context.proto: '8'
+  google/protobuf/struct.proto: '8'
+  google/protobuf/timestamp.proto: '8'
+  google/protobuf/type.proto: '8'
+  google/protobuf/wrappers.proto: '8'
+  mozilla/public-suffix-list.txt: '8'
+  okhttp3/internal/publicsuffix/NOTICE: '8'
+  okhttp3/internal/publicsuffix/publicsuffixes.gz: '8'
+  org/apache/commons/codec/language/dmrules.txt: '8'
+  org/apache/commons/codec/language/bm/ash_approx_any.txt: '8'
+  org/apache/commons/codec/language/bm/ash_approx_common.txt: '8'
+  org/apache/commons/codec/language/bm/ash_approx_cyrillic.txt: '8'
+  org/apache/commons/codec/language/bm/ash_approx_english.txt: '8'
+  org/apache/commons/codec/language/bm/ash_approx_french.txt: '8'
+  org/apache/commons/codec/language/bm/ash_approx_german.txt: '8'
+  org/apache/commons/codec/language/bm/ash_approx_hebrew.txt: '8'
+  org/apache/commons/codec/language/bm/ash_approx_hungarian.txt: '8'
+  org/apache/commons/codec/language/bm/ash_approx_polish.txt: '8'
+  org/apache/commons/codec/language/bm/ash_approx_romanian.txt: '8'
+  org/apache/commons/codec/language/bm/ash_approx_russian.txt: '8'
+  org/apache/commons/codec/language/bm/ash_approx_spanish.txt: '8'
+  org/apache/commons/codec/language/bm/ash_exact_any.txt: '8'
+  org/apache/commons/codec/language/bm/ash_exact_approx_common.txt: '8'
+  org/apache/commons/codec/language/bm/ash_exact_common.txt: '8'
+  org/apache/commons/codec/language/bm/ash_exact_cyrillic.txt: '8'
+  org/apache/commons/codec/language/bm/ash_exact_english.txt: '8'
+  org/apache/commons/codec/language/bm/ash_exact_french.txt: '8'
+  org/apache/commons/codec/language/bm/ash_exact_german.txt: '8'
+  org/apache/commons/codec/language/bm/ash_exact_hebrew.txt: '8'
+  org/apache/commons/codec/language/bm/ash_exact_hungarian.txt: '8'
+  org/apache/commons/codec/language/bm/ash_exact_polish.txt: '8'
+  org/apache/commons/codec/language/bm/ash_exact_romanian.txt: '8'
+  org/apache/commons/codec/language/bm/ash_exact_russian.txt: '8'
+  org/apache/commons/codec/language/bm/ash_exact_spanish.txt: '8'
+  org/apache/commons/codec/language/bm/ash_hebrew_common.txt: '8'
+  org/apache/commons/codec/language/bm/ash_lang.txt: '8'
+  org/apache/commons/codec/language/bm/ash_languages.txt: '8'
+  org/apache/commons/codec/language/bm/ash_rules_any.txt: '8'
+  org/apache/commons/codec/language/bm/ash_rules_cyrillic.txt: '8'
+  org/apache/commons/codec/language/bm/ash_rules_english.txt: '8'
+  org/apache/commons/codec/language/bm/ash_rules_french.txt: '8'
+  org/apache/commons/codec/language/bm/ash_rules_german.txt: '8'
+  org/apache/commons/codec/language/bm/ash_rules_hebrew.txt: '8'
+  org/apache/commons/codec/language/bm/ash_rules_hungarian.txt: '8'
+  org/apache/commons/codec/language/bm/ash_rules_polish.txt: '8'
+  org/apache/commons/codec/language/bm/ash_rules_romanian.txt: '8'
+  org/apache/commons/codec/language/bm/ash_rules_russian.txt: '8'
+  org/apache/commons/codec/language/bm/ash_rules_spanish.txt: '8'
+  org/apache/commons/codec/language/bm/gen_approx_any.txt: '8'
+  org/apache/commons/codec/language/bm/gen_approx_arabic.txt: '8'
+  org/apache/commons/codec/language/bm/gen_approx_common.txt: '8'
+  org/apache/commons/codec/language/bm/gen_approx_cyrillic.txt: '8'
+  org/apache/commons/codec/language/bm/gen_approx_czech.txt: '8'
+  org/apache/commons/codec/language/bm/gen_approx_dutch.txt: '8'
+  org/apache/commons/codec/language/bm/gen_approx_english.txt: '8'
+  org/apache/commons/codec/language/bm/gen_approx_french.txt: '8'
+  org/apache/commons/codec/language/bm/gen_approx_german.txt: '8'
+  org/apache/commons/codec/language/bm/gen_approx_greek.txt: '8'
+  org/apache/commons/codec/language/bm/gen_approx_greeklatin.txt: '8'
+  org/apache/commons/codec/language/bm/gen_approx_hebrew.txt: '8'
+  org/apache/commons/codec/language/bm/gen_approx_hungarian.txt: '8'
+  org/apache/commons/codec/language/bm/gen_approx_italian.txt: '8'
+  org/apache/commons/codec/language/bm/gen_approx_polish.txt: '8'
+  org/apache/commons/codec/language/bm/gen_approx_portuguese.txt: '8'
+  org/apache/commons/codec/language/bm/gen_approx_romanian.txt: '8'
+  org/apache/commons/codec/language/bm/gen_approx_russian.txt: '8'
+  org/apache/commons/codec/language/bm/gen_approx_spanish.txt: '8'
+  org/apache/commons/codec/language/bm/gen_approx_turkish.txt: '8'
+  org/apache/commons/codec/language/bm/gen_exact_any.txt: '8'
+  org/apache/commons/codec/language/bm/gen_exact_approx_common.txt: '8'
+  org/apache/commons/codec/language/bm/gen_exact_arabic.txt: '8'
+  org/apache/commons/codec/language/bm/gen_exact_common.txt: '8'
+  org/apache/commons/codec/language/bm/gen_exact_cyrillic.txt: '8'
+  org/apache/commons/codec/language/bm/gen_exact_czech.txt: '8'
+  org/apache/commons/codec/language/bm/gen_exact_dutch.txt: '8'
+  org/apache/commons/codec/language/bm/gen_exact_english.txt: '8'
+  org/apache/commons/codec/language/bm/gen_exact_french.txt: '8'
+  org/apache/commons/codec/language/bm/gen_exact_german.txt: '8'
+  org/apache/commons/codec/language/bm/gen_exact_greek.txt: '8'
+  org/apache/commons/codec/language/bm/gen_exact_greeklatin.txt: '8'
+  org/apache/commons/codec/language/bm/gen_exact_hebrew.txt: '8'
+  org/apache/commons/codec/language/bm/gen_exact_hungarian.txt: '8'
+  org/apache/commons/codec/language/bm/gen_exact_italian.txt: '8'
+  org/apache/commons/codec/language/bm/gen_exact_polish.txt: '8'
+  org/apache/commons/codec/language/bm/gen_exact_portuguese.txt: '8'
+  org/apache/commons/codec/language/bm/gen_exact_romanian.txt: '8'
+  org/apache/commons/codec/language/bm/gen_exact_russian.txt: '8'
+  org/apache/commons/codec/language/bm/gen_exact_spanish.txt: '8'
+  org/apache/commons/codec/language/bm/gen_exact_turkish.txt: '8'
+  org/apache/commons/codec/language/bm/gen_hebrew_common.txt: '8'
+  org/apache/commons/codec/language/bm/gen_lang.txt: '8'
+  org/apache/commons/codec/language/bm/gen_languages.txt: '8'
+  org/apache/commons/codec/language/bm/gen_rules_any.txt: '8'
+  org/apache/commons/codec/language/bm/gen_rules_arabic.txt: '8'
+  org/apache/commons/codec/language/bm/gen_rules_cyrillic.txt: '8'
+  org/apache/commons/codec/language/bm/gen_rules_czech.txt: '8'
+  org/apache/commons/codec/language/bm/gen_rules_dutch.txt: '8'
+  org/apache/commons/codec/language/bm/gen_rules_english.txt: '8'
+  org/apache/commons/codec/language/bm/gen_rules_french.txt: '8'
+  org/apache/commons/codec/language/bm/gen_rules_german.txt: '8'
+  org/apache/commons/codec/language/bm/gen_rules_greek.txt: '8'
+  org/apache/commons/codec/language/bm/gen_rules_greeklatin.txt: '8'
+  org/apache/commons/codec/language/bm/gen_rules_hebrew.txt: '8'
+  org/apache/commons/codec/language/bm/gen_rules_hungarian.txt: '8'
+  org/apache/commons/codec/language/bm/gen_rules_italian.txt: '8'
+  org/apache/commons/codec/language/bm/gen_rules_polish.txt: '8'
+  org/apache/commons/codec/language/bm/gen_rules_portuguese.txt: '8'
+  org/apache/commons/codec/language/bm/gen_rules_romanian.txt: '8'
+  org/apache/commons/codec/language/bm/gen_rules_russian.txt: '8'
+  org/apache/commons/codec/language/bm/gen_rules_spanish.txt: '8'
+  org/apache/commons/codec/language/bm/gen_rules_turkish.txt: '8'
+  org/apache/commons/codec/language/bm/lang.txt: '8'
+  org/apache/commons/codec/language/bm/sep_approx_any.txt: '8'
+  org/apache/commons/codec/language/bm/sep_approx_common.txt: '8'
+  org/apache/commons/codec/language/bm/sep_approx_french.txt: '8'
+  org/apache/commons/codec/language/bm/sep_approx_hebrew.txt: '8'
+  org/apache/commons/codec/language/bm/sep_approx_italian.txt: '8'
+  org/apache/commons/codec/language/bm/sep_approx_portuguese.txt: '8'
+  org/apache/commons/codec/language/bm/sep_approx_spanish.txt: '8'
+  org/apache/commons/codec/language/bm/sep_exact_any.txt: '8'
+  org/apache/commons/codec/language/bm/sep_exact_approx_common.txt: '8'
+  org/apache/commons/codec/language/bm/sep_exact_common.txt: '8'
+  org/apache/commons/codec/language/bm/sep_exact_french.txt: '8'
+  org/apache/commons/codec/language/bm/sep_exact_hebrew.txt: '8'
+  org/apache/commons/codec/language/bm/sep_exact_italian.txt: '8'
+  org/apache/commons/codec/language/bm/sep_exact_portuguese.txt: '8'
+  org/apache/commons/codec/language/bm/sep_exact_spanish.txt: '8'
+  org/apache/commons/codec/language/bm/sep_hebrew_common.txt: '8'
+  org/apache/commons/codec/language/bm/sep_lang.txt: '8'
+  org/apache/commons/codec/language/bm/sep_languages.txt: '8'
+  org/apache/commons/codec/language/bm/sep_rules_any.txt: '8'
+  org/apache/commons/codec/language/bm/sep_rules_french.txt: '8'
+  org/apache/commons/codec/language/bm/sep_rules_hebrew.txt: '8'
+  org/apache/commons/codec/language/bm/sep_rules_italian.txt: '8'
+  org/apache/commons/codec/language/bm/sep_rules_portuguese.txt: '8'
+  org/apache/commons/codec/language/bm/sep_rules_spanish.txt: '8'
+  org/apache/http/version.properties: '8'
+  org/apache/http/client/version.properties: '8'
+  org/apache/ivy/logo.png: '0'
+  org/apache/ivy/ant/antlib.xml: '8'
+  org/apache/ivy/core/settings/ivy.properties: '8'
+  org/apache/ivy/core/settings/ivyconf-default-chain.xml: '8'
+  org/apache/ivy/core/settings/ivyconf-local.xml: '8'
+  org/apache/ivy/core/settings/ivyconf-main-chain.xml: '8'
+  org/apache/ivy/core/settings/ivyconf-public.xml: '8'
+  org/apache/ivy/core/settings/ivyconf-shared.xml: '8'
+  org/apache/ivy/core/settings/ivyconf.xml: '8'
+  org/apache/ivy/core/settings/ivysettings-1.4.xml: '8'
+  org/apache/ivy/core/settings/ivysettings-default-chain.xml: '8'
+  org/apache/ivy/core/settings/ivysettings-local.xml: '8'
+  org/apache/ivy/core/settings/ivysettings-main-chain.xml: '8'
+  org/apache/ivy/core/settings/ivysettings-public.xml: '8'
+  org/apache/ivy/core/settings/ivysettings-shared.xml: '8'
+  org/apache/ivy/core/settings/ivysettings.xml: '8'
+  org/apache/ivy/core/settings/repository.properties: '8'
+  org/apache/ivy/core/settings/typedef.properties: '8'
+  org/apache/ivy/osgi/core/jvm-packages.properties: '8'
+  org/apache/ivy/plugins/parser/m2/m2-entities.ent: '8'
+  org/apache/ivy/plugins/parser/m2/pom.template: '8'
+  org/apache/ivy/plugins/parser/xml/ivy.xsd: '8'
+  org/apache/ivy/plugins/report/ivy-report-dot-all.xsl: '8'
+  org/apache/ivy/plugins/report/ivy-report-dot.xsl: '8'
+  org/apache/ivy/plugins/report/ivy-report-graph-all.xsl: '8'
+  org/apache/ivy/plugins/report/ivy-report-graph.xsl: '8'
+  org/apache/ivy/plugins/report/ivy-report.css: '8'
+  org/apache/ivy/plugins/report/ivy-report.xsl: '8'
+  org/apache/ivy/plugins/repository/vfs/ivy_vfs.xml: '8'
+  org/apache/ivy/plugins/resolver/packager/build.xml: '8'
+  org/apache/ivy/plugins/resolver/packager/packager-1.0.xsd: '8'
+  org/apache/ivy/plugins/resolver/packager/packager.xsl: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.3
+versionInfo:
+  versionCode: '1101'
+  versionName: 16.16.0
